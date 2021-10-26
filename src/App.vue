@@ -1,6 +1,6 @@
 <template>
   <h1>Christmas List</h1>
-  <List msg="Welcome to Your Vue.js App"/>
+  <List/>
 </template>
 
 <script>
